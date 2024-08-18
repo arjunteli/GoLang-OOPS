@@ -1,4 +1,4 @@
-package daywise
+package main
 
 import "fmt"
 
